@@ -1,0 +1,156 @@
+<p><span style="display: none;">Este e-mail é gerado automaticamente, favor não responder !</span></p>
+<center>
+<table class="tab_cadre" style="width: 700px; margin: 0 auto; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; border: 1px solid #cccccc; z-index: 1; text-align: left; font-size: 11px; background-color: #ffffff;">
+<tbody>
+<tr><th colspan="4" id="followups" style="font-size: 12px; font-weight: bold; background-color: #8cb0d0; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; padding: 2px; border-bottom: 1px solid #cccccc;">
+<p></p>
+<p><img src="LINK DA IMAGEM DO ATENDIMENTO" /> </p>
+</th></tr>
+<tr><th colspan="2" style="font-size: 12px; font-weight: bold; background-color: #8cb0d0; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; padding: 2px; border-bottom: 1px solid #cccccc;"><a style="font-weight: bold; text-decoration: none; color: #1a7ad0; font-size: 12px;" href="##ticket.url##">##ticket.title##</a></th><th style="font-size: 12px; font-weight: bold; background-color: #8cb0d0; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; padding: 2px; border-bottom: 1px solid #cccccc;">##IFticket.numberoffollowups## <a style="font-weight: bold; text-decoration: none; color: #1a7ad0; font-size: 12px;" href="#followups">##lang.ticket.numberoffollowups## : ##ticket.numberoffollowups##</a> ##ENDIFticket.numberoffollowups## ##ELSEticket.numberoffollowups## <a style="font-weight: bold; text-decoration: none; color: #1a7ad0; font-size: 12px;" href="#followups">##lang.ticket.numberoffollowups##: 0 </a> ##ENDELSEticket.numberoffollowups##</th><th style="font-size: 12px; font-weight: bold; background-color: #8cb0d0; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; padding: 2px; border-bottom: 1px solid #cccccc;">##IFticket.numberoftasks## <a style="font-weight: bold; text-decoration: none; color: #1a7ad0; font-size: 12px;" href="#tasks">##lang.ticket.numberoftasks## : ##ticket.numberoftasks##</a> ##ENDIFticket.numberoftasks## ##ELSEticket.numberoftasks## <a style="font-weight: bold; text-decoration: none; color: #1a7ad0; font-size: 12px;" href="#tasks">##lang.ticket.numberoftasks## : 0</a> ##ENDELSEticket.numberoftasks##</th></tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.authors## :</td>
+<td style="padding: 3px 5px;">##IFticket.authors## ##ticket.authors## ##ENDIFticket.authors## ##ELSEticket.authors## -- ##ENDELSEticket.authors##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.creationdate## :</td>
+<td style="padding: 3px 5px;">##ticket.creationdate##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.closedate## :</td>
+<td style="padding: 3px 5px;">##ticket.closedate##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.requesttype## :</td>
+<td style="padding: 3px 5px;">##ticket.requesttype##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.item.name## :</td>
+<td style="padding: 3px 5px;">##ticket.itemtype## - ##ticket.item.name## ##IFticket.item.model## - ##ticket.item.model## ##ENDIFticket.item.model## ##IFticket.item.serial## - ##ticket.item.serial## ##ENDIFticket.item.serial## ##IFticket.item.otherserial## - ##ticket.item.otherserial## ##ENDIFticket.item.otherserial##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.assigntousers## :</td>
+<td style="padding: 3px 5px;">##ticket.assigntousers##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.status## :</td>
+<td style="padding: 3px 5px;">##ticket.status##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.assigntogroups## :</td>
+<td style="padding: 3px 5px;">##ticket.assigntogroups##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.urgency## :</td>
+<td style="padding: 3px 5px;">##ticket.urgency##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.impact## :</td>
+<td style="padding: 3px 5px;">##ticket.impact##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.priority## :</td>
+<td style="padding: 3px 5px;">##ticket.priority##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.category## :</td>
+<td style="padding: 3px 5px;">##IFticket.category## ##ticket.category## ##ENDIFticket.category## ##ELSEticket.category## ##lang.ticket.nocategoryassigned## ##ENDELSEticket.category##</td>
+<td style="padding: 3px 5px;" colspan="2"></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.content## :</td>
+<td style="padding: 3px 5px;" colspan="3">##ticket.content##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.solvedate## :</td>
+<td style="padding: 3px 5px;" colspan="3">##ticket.solvedate##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.solution.type## :</td>
+<td style="padding: 3px 5px;" colspan="3">##ticket.solution.type##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.solution.description## :</td>
+<td style="padding: 3px 5px;" colspan="3">##ticket.solution.description##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.ticket.numberoffollowups## :</td>
+<td style="padding: 3px 5px;" colspan="3">##ticket.numberoffollowups##</td>
+</tr>
+<tr><th colspan="4" id="followups" style="font-size: 12px; font-weight: bold; background-color: #8cb0d0; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; padding: 2px; border-bottom: 1px solid #cccccc;">##lang.ticket.numberoffollowups## : ##ticket.numberoffollowups##</th></tr>
+<tr>
+<td colspan="4">##FOREACHfollowups##
+<table class="tab_cadre" style="width: 100%; margin: 0 auto; z-index: 1; text-align: left; font-size: 11px; background-color: #ffffff;">
+<tbody>
+<tr class="tab_bg_3" style="background-color: #e7e7e2;">
+<td style="padding: 3px 5px;" colspan="4" align="center"><strong>[##followup.date##]</strong></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.followup.isprivate## :</td>
+<td style="padding: 3px 5px;" colspan="3">##followup.isprivate##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.followup.author## :</td>
+<td style="padding: 3px 5px;" colspan="3">##followup.author##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.followup.description## :</td>
+<td style="padding: 3px 5px;" colspan="3">##followup.description##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.followup.date## :</td>
+<td style="padding: 3px 5px;" colspan="3">##followup.date##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.followup.requesttype## :</td>
+<td style="padding: 3px 5px;" colspan="3">##followup.requesttype##</td>
+</tr>
+</tbody>
+</table>
+##ENDFOREACHfollowups##</td>
+</tr>
+<tr><th colspan="4" id="tasks" style="font-size: 12px; font-weight: bold; background-color: #8cb0d0; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; padding: 2px; border-bottom: 1px solid #cccccc;">##lang.ticket.numberoftasks## : ##ticket.numberoftasks##</th></tr>
+<tr>
+<td colspan="4">##FOREACHtasks##
+<table class="tab_cadre" style="width: 100%; margin: 0 auto; z-index: 1; text-align: left; font-size: 11px; background-color: #ffffff;">
+<tbody>
+<tr class="tab_bg_3" style="background-color: #e7e7e2;">
+<td style="padding: 3px 5px;" colspan="4" align="center"><strong>[##task.date##]</strong></td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.task.isprivate## :</td>
+<td style="padding: 3px 5px;" colspan="3">##task.isprivate##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.task.author## :</td>
+<td style="padding: 3px 5px;" colspan="3">##task.author##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.task.description## :</td>
+<td style="padding: 3px 5px;" colspan="3">##task.description##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.task.time## :</td>
+<td style="padding: 3px 5px;" colspan="3">##task.time##</td>
+</tr>
+<tr class="tab_bg_1" style="background-color: #f2f2f2;">
+<td style="padding: 3px 5px;">##lang.task.category## :</td>
+<td style="padding: 3px 5px;" colspan="3">##task.category##</td>
+</tr>
+</tbody>
+</table>
+##ENDFOREACHtasks##</td>
+</tr>
+</tbody>
+</table>
+</center>
